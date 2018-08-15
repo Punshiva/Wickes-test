@@ -4,11 +4,11 @@
 
 See: https://zaynzafar.github.io/interview-task-wickes/.
 
-## Dependencies
+## Install Dependencies
 
-Run `npm i` to install the dependencies and dev dependencies.
+Run `npm install` to install the dependencies and dev dependencies.
 
-## Build
+## Build Project
 
 Run `npm run build` to build the project to the `dist` folder.
 
